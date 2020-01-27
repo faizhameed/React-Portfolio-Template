@@ -1,4 +1,5 @@
 import corefactors from "../assets/experience/corefactors.jpg";
+import freelance from "../assets/experience/freelance.jpg"
 export const exp = [
   {
     title: "UI ENGINEER",
@@ -25,7 +26,7 @@ export const exp = [
       "Optimizing components for maximum performance"
     ],
     img:
-      "https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80"
+      freelance
   },
   {
     title: "PRODUCTION AND QUALITY ENGINEER",
